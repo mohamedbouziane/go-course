@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"strings"
 
-	"./types"
+	"github.com/go-course/s09/12_struct_exported/athletes"
 )
 
 func changeAthleteName1(p athletes.Player) {
